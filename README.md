@@ -1,6 +1,6 @@
 # Display the Output 
-print("New Readme File") 
-Final Project: Overview and Grading Criteria
+# print("New Readme File") 
+# Final Project: Overview and Grading Criteria
 Estimated time needed: 15 minutes
 
 Now that you are equipped with the knowledge and skills to work with GitHub UI and Git CLI, you will use these skills to create an open source project in Git, make changes to that project and make it available to the community. You will fork a GitHub repository, clone that repository to your local system, make changes to the local repository, commit the changes locally, push it back to your GitHub fork, and create a pull request to add your update to the original repository. This final assignment project is split into two parts.
